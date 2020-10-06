@@ -24,6 +24,8 @@ public class Order {
 		return orderDate + ": " + 
 	              items.toString();
 	}
-	
+	public static void main(String[] args) {
+		
+	}
 }
 
